@@ -1,0 +1,6 @@
+numpy==1.25.0
+pandas==2.0.2
+seaborn==0.12.2
+notebook==7.0.0b2
+tqdm==4.65.0
+statsmodels==0.14.0
