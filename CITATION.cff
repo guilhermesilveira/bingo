@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "de Azevedo Silveira"
+  given-names: "Guilherme"
+  orcid: "https://orcid.org/0000-0002-2794-8286"
+title: "Harnessing randomness: A mathematical approach to creating magical illusions"
+version: 1.0.0
+date-released: 2023-06-30
+url: "https://github.com/guilhermesilveira/bingo"
